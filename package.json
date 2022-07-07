@@ -2,7 +2,7 @@
   "name": "react-redux",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://richardd82.github.io/react-redux",
+  "homepage": "https://richardd82.github.io/react-redux/public",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
